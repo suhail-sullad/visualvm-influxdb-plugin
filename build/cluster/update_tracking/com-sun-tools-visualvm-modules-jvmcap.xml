@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="com.sun.tools.visualvm.modules.jvmcap">
-    <module_version install_time="1490193484786" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1490194767351" last="true" origin="installer" specification_version="1.0">
         <file crc="2465031074" name="config/Modules/com-sun-tools-visualvm-modules-jvmcap.xml"/>
-        <file crc="2373811694" name="modules/com-sun-tools-visualvm-modules-jvmcap.jar"/>
+        <file crc="2692158650" name="modules/com-sun-tools-visualvm-modules-jvmcap.jar"/>
         <file crc="1707950445" name="modules/ext/converter-moshi-2.1.0.jar"/>
         <file crc="3052687359" name="modules/ext/guava-20.0.jar"/>
         <file crc="4061769498" name="modules/ext/guava-21.0.jar"/>

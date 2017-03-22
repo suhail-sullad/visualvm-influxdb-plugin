@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.sun.tools.visualvm.modules.jvmcap
+OpenIDE-Module-Install: com/visualvm/plugin/Installer.class
+OpenIDE-Module-Localizing-Bundle: com/visualvm/plugin/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

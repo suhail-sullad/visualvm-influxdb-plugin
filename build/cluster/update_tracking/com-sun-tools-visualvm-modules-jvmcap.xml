@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.sun.tools.visualvm.modules.jvmcap">
+    <module_version install_time="1490192841977" last="true" origin="installer" specification_version="1.0">
+        <file crc="2465031074" name="config/Modules/com-sun-tools-visualvm-modules-jvmcap.xml"/>
+        <file crc="2373811694" name="modules/com-sun-tools-visualvm-modules-jvmcap.jar"/>
+        <file crc="1707950445" name="modules/ext/converter-moshi-2.1.0.jar"/>
+        <file crc="3052687359" name="modules/ext/guava-20.0.jar"/>
+        <file crc="4061769498" name="modules/ext/guava-21.0.jar"/>
+        <file crc="1208694712" name="modules/ext/influxdb-java-2.5.jar"/>
+        <file crc="1784752475" name="modules/ext/logging-interceptor-3.5.0.jar"/>
+        <file crc="186073884" name="modules/ext/moshi-1.2.0.jar"/>
+        <file crc="3925290125" name="modules/ext/okhttp-3.5.0.jar"/>
+        <file crc="1590179007" name="modules/ext/okhttp-3.6.0.jar"/>
+        <file crc="2136736352" name="modules/ext/okio-1.11.0.jar"/>
+        <file crc="2409745723" name="modules/ext/retrofit-2.1.0.jar"/>
+        <file crc="1305764607" name="modules/ext/retrofit-2.2.0.jar"/>
+    </module_version>
+</module>

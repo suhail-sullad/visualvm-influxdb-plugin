@@ -1,0 +1,11 @@
+C:\visualvm_139\platform=1489838972544
+cluster.C:/Users/suhail_sullad/Documents/NetBeansProjects/jvmcaps/build/cluster=1490192544814
+cluster.C:/visualvm_139/platform=1489838972544
+cluster.C:/visualvm_139/profiler=1489838972544
+cluster.C:/visualvm_139/visualvm=1489838972544
+user=1490192544814
+crc=7
+locale=en_IN
+branding=null
+java.version=1.8.0_91
+java.vm.version=25.91-b15
